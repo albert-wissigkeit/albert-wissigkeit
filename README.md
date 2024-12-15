@@ -1,7 +1,6 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="100%" text-align="center" src="https://github-readme-stats.vercel.app/api?username=albert-wissigkeit&show_icons=true&theme=ambient_gradient" />
-  <img width="100%" text-align="center" src="https://github-readme-stats.vercel.app/api?username=deinusername&show_icons=true&count_private=true&random=$(date +%s)" />
-</a>
+</a>-->
 
 
 <!--
